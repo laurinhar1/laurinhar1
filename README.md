@@ -1,5 +1,9 @@
 ## Hi there 👋
+oi bem vindos ao meu perfil. 💕💕
 
+estou estudando no alura
+
+estou compartilhando meus projetos desenvolvidos
 <!--
 **laurinhar1/laurinhar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
